@@ -43,7 +43,7 @@ Mission     : Build scalable digital products
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> About Me
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"> About Me
 
 <table>
 
