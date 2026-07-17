@@ -349,7 +349,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ---
 
-# <img src="https://www.svgrepo.com/show/532205/rocket-launch.svg" width="28"> Featured Projects
+# <img src="https://www.svgrepo.com/show/532208/folder.svg" width="28"> Featured Projects
 
 <div align="center">
 
