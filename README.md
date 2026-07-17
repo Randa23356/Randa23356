@@ -276,11 +276,7 @@ Best Practices
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:203A43"/>
 
-### ⬇️ Continue to Part 2
-
 </div>
-
----
 
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> GitHub Analytics
 
