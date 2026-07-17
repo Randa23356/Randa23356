@@ -36,7 +36,7 @@ Speciality  : Full Stack Web Developer
 
 Experience  : Laravel • Next.js • Flutter
 
-Interest    : Cyber Security • AI • Machine Learning
+Interest    : Cyber Security • AI • ChatBot • Machine Learning
 
 Mission     : Build scalable digital products
 ```
