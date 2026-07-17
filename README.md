@@ -349,7 +349,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ---
 
-# <img src="https://www.svgrepo.com/show/532208/folder.svg" width="28"> Featured Projects
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> Featured Projects
 
 <div align="center">
 
