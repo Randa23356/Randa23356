@@ -389,7 +389,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 </p>
 
-<img src="https://placehold.co/900x520/0f172a/ffffff?text=FTWO+Mart+Preview"/>
+<img src="ftwomart.png"/>
 
 ### ✨ Features
 
@@ -428,7 +428,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 </p>
 
-<img src="https://placehold.co/900x520/111827/ffffff?text=DailyFlow+Preview"/>
+<img src="dailyflow.png"/>
 
 ### ✨ Features
 
@@ -477,7 +477,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 </p>
 
-<img src="https://placehold.co/900x520/1e293b/ffffff?text=AlphaTech+Preview"/>
+<img src="alphatech.png"/>
 
 ### ✨ Features
 
@@ -516,7 +516,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 </p>
 
-<img src="https://placehold.co/900x520/1f2937/ffffff?text=Konsepsi+Preview"/>
+<img src="konsepsi.png"/>
 
 ### ✨ Features
 
@@ -567,7 +567,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 </p>
 
-<img src="https://placehold.co/1200x500/111827/ffffff?text=Al+Azhar+LMS"/>
+<img src="tahfizapp.png"/>
 
 ### ✨ Features
 
