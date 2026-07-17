@@ -208,60 +208,72 @@ Currently exploring:
 
 <div align="center">
 
-# ⚡ Development Fields
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"/> Development Fields
 
 <table>
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65"/>
 
 ### Web Development
 
-Modern Web Applications  
-REST API Development  
-Responsive UI
+<sub>
+
+Laravel • Next.js  
+React.js • Native PHP  
+REST API Development
+
+</sub>
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65"/>
 
 ### Mobile Development
+
+<sub>
 
 Flutter  
 Apache Cordova  
 Cross Platform Apps
 
+</sub>
+
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
-
-<td align="center" width="250">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65"/>
 
 ### Artificial Intelligence
+
+<sub>
 
 Machine Learning  
 AI Chatbot  
 Automation
 
+</sub>
+
 </td>
 
-<td align="center" width="250">
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/>
 
 ### Cyber Security
 
+<sub>
+
+OWASP Basics  
 Web Security  
-OWASP  
-Security Best Practices
+Best Practices
+
+</sub>
 
 </td>
 
@@ -269,6 +281,7 @@ Security Best Practices
 </table>
 
 </div>
+
 
 <div align="center">
 
