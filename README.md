@@ -1,28 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,20:00BFFF,40:1E90FF,60:203A43,100:0F2027&text=ARMAN%20WIRANDA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20at%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
-
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React.js;Flutter+Developer;Building+Modern+Digital+Solutions" alt="Typing SVG" />
-</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,20:00BFFF,50:2563EB,80:1E293B,100:0F172A&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Randa23356?style=for-the-badge&logo=github&color=00C7FF"/>
-<img src="https://img.shields.io/github/stars/Randa23356?style=for-the-badge&logo=github&color=0ea5e9"/>
-<img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=00C7FF"/>
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React.js;Flutter+Developer;Building+Modern+Digital+Solutions"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/Randa23356?style=for-the-badge&logo=github&color=0891B2"/>
+
+<img src="https://img.shields.io/github/stars/Randa23356?style=for-the-badge&logo=github&color=2563EB"/>
+
+<img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=06B6D4"/>
 
 </div>
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"> whoami
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/> whoami
 
 ```bash
-┌──(arman㉿ftwodev)-[~/profile]
-└─$ whoami
+┌──(arman@ftwodev)-[~/profile]
+└─$ ./whoami
 
 Name        : Arman Wiranda
 
@@ -30,20 +34,24 @@ Role        : Lead Developer
 
 Company     : FTwoDev
 
-Location    : East Lombok, Indonesia 🇮🇩
+Location    : East Lombok, Indonesia
 
-Speciality  : Full Stack Web Developer
+Profession  : Full Stack Developer
 
-Experience  : Laravel • Next.js • Flutter
+Focus       : Laravel | Next.js | Flutter
 
-Interest    : Cyber Security • AI • ChatBot • Machine Learning
+Interest    : Cyber Security
+              Artificial Intelligence
+              Machine Learning
+              Chatbot
 
-Mission     : Build scalable digital products
+Mission     : Build digital products that solve
+              real-world problems.
 ```
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"> About Me
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> About Me
 
 <table>
 
@@ -51,18 +59,19 @@ Mission     : Build scalable digital products
 
 <td width="60%">
 
-### 👋 Hello There
+### Hello There 👋
 
-I'm **Arman Wiranda**, a **Full Stack Developer** from **East Lombok, Indonesia**.
+I'm **Arman Wiranda**, a **Full Stack Developer** based in **East Lombok, Indonesia**.
 
-Currently working as **Lead Developer at FTwoDev**, building modern web applications, mobile applications and business systems.
+Currently serving as **Lead Developer at FTwoDev**, where I design and build scalable digital products ranging from company profiles, information systems, SaaS platforms, and mobile applications.
 
-I enjoy building products from scratch, solving real-world problems, and continuously learning new technologies.
+I enjoy creating clean architectures, modern UI, maintainable backend systems, and continuously exploring new technologies.
 
-Currently exploring:
+### Currently Exploring
 
 - Artificial Intelligence
 - Machine Learning
+- AI Chatbot
 - Cyber Security
 - Cloud Computing
 
@@ -70,7 +79,7 @@ Currently exploring:
 
 <td align="center">
 
-<img width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VhMWRjcTF0aTQ0eGN5NnFsdzV5OG5hcDhoMzJwMzh3djFmMXFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
+<img width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </td>
 
@@ -80,113 +89,103 @@ Currently exploring:
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"> Tech Arsenal
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30"/> Technology Stack
+
+<br>
+
+<div align="center">
 
 ## Frontend
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css&perline=5"/>
 
-</p>
+<br>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Responsive_UI-00C7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive_UI-0EA5E9?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## Styling
+<div align="center">
 
-<p align="center">
+## Styling
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 
-</p>
+</div>
 
 ---
 
-## Backend
+<div align="center">
 
-<p align="center">
+## Backend
 
 <img src="https://skillicons.dev/icons?i=laravel,php"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
 
 <img src="https://img.shields.io/badge/Native_PHP-777BB4?style=for-the-badge&logo=php"/>
 
-<img src="https://img.shields.io/badge/REST_API-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## Mobile Development
+<div align="center">
 
-<p align="center">
+## Mobile
 
 <img src="https://skillicons.dev/icons?i=flutter"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
 
 <img src="https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black"/>
 
-</p>
+</div>
 
 ---
 
-## Database
+<div align="center">
 
-<p align="center">
+## Database
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 
-</p>
+</div>
 
 ---
 
-## Tools
+<div align="center">
 
-<p align="center">
+## Tools
 
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,python"/>
 
-</p>
-
-<p align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
@@ -194,7 +193,7 @@ Currently exploring:
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 
-<img src="https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python"/>
 
 <img src="https://img.shields.io/badge/Laragon-00ADEF?style=for-the-badge"/>
 
@@ -202,134 +201,101 @@ Currently exploring:
 
 <img src="https://img.shields.io/badge/Stitch_AI-7C3AED?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Development Fields
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:1E293B"/>
+
+</div>
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Development Fields
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:1E293B"/>
+
+</div>
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Development Fields
+
+<div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65">
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php" />
 
 <h3>Web Development</h3>
 
-<p align="center">
-Laravel<br>
-Next.js<br>
-React.js<br>
-Native PHP
-</p>
+Modern, scalable and responsive web applications.
+
+<br>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65">
+<img src="https://skillicons.dev/icons?i=flutter" />
 
 <h3>Mobile Development</h3>
 
-<p align="center">
-Flutter<br>
-Apache Cordova<br>
-Cross Platform Apps
-</p>
+Cross-platform mobile application development.
 
-</td>
+<br>
 
-<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65">
-
-<h3>Artificial Intelligence</h3>
-
-<p align="center">
-Machine Learning<br>
-AI Chatbot<br>
-Automation
-</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
-
-<h3>Cyber Security</h3>
-
-<p align="center">
-OWASP Basics<br>
-Web Security<br>
-Best Practices
-</p>
+<img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black"/>
 
 </td>
 
 </tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,100:203A43"/>
-
-</div>
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> GitHub Analytics
-
-> **Note:** Jika GitHub Stats atau Streak tidak muncul, kemungkinan endpoint publiknya sedang mengalami gangguan. Contribution Graph dan Snake tetap bisa digunakan.
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Randa23356&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</p>
-
----
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Current Mission
-
-<table>
 
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 🚀 Building
+<img src="https://skillicons.dev/icons?i=python" />
 
-- Modern Web Application
-- REST API
-- SaaS Platform
-- Business Management System
-- Mobile Application
+<h3>Artificial Intelligence</h3>
+
+Currently learning Machine Learning, AI Chatbot and Automation.
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI_Chatbot-0EA5E9?style=flat-square"/>
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 📖 Learning
+<img src="https://skillicons.dev/icons?i=linux" />
 
-- Machine Learning
-- AI Chatbot
-- Cloud Computing
-- Cyber Security
-- Software Architecture
+<h3>Cyber Security</h3>
+
+Learning secure development and web security fundamentals.
+
+<br>
+
+<img src="https://img.shields.io/badge/OWASP-111827?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Web_Security-0891B2?style=flat-square"/>
 
 </td>
 
@@ -337,32 +303,59 @@ Best Practices
 
 </table>
 
+</div>
+
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> FTwoDev
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub Analytics
 
 <div align="center">
 
-## 🚀 FTwoDev
-
-**Building Modern Digital Solutions**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Randa23356&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-FTwoDev adalah startup software development yang berfokus pada pembuatan solusi digital modern, mulai dari website perusahaan, sistem informasi, aplikasi mobile, hingga pengembangan software custom sesuai kebutuhan bisnis.
+> **Note:** GitHub Stats & Streak kadang tidak tampil karena layanan publiknya sedang mengalami gangguan. Activity Graph dan Snake biasanya lebih stabil.
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FTwoDev
+
+<div align="center">
+
+<img width="120" src="https://skillicons.dev/icons?i=git"/>
+
+## Building Modern Digital Solutions
+
+</div>
+
+FTwoDev adalah startup software development yang saya pimpin sebagai **Lead Developer**.
+
+Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UMKM, maupun personal.
 
 ### Services
 
 - 🌐 Company Profile Website
 - 🛒 E-Commerce
+- 📊 Information System
 - 📱 Mobile Application
-- 💼 Business Information System
 - ⚙️ Custom Web Application
 - 🔗 REST API Development
+- 🚀 SaaS Platform
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Featured Projects
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Featured Projects
 
 <table>
 
@@ -374,13 +367,21 @@ FTwoDev adalah startup software development yang berfokus pada pembuatan solusi 
 
 Marketplace berbasis Laravel dengan sistem pembayaran online.
 
+**Stack**
+
+Laravel • MySQL • Midtrans
+
 </td>
 
 <td width="50%">
 
 ## 🎮 iMon Rentals
 
-Sistem Rental PlayStation berbasis Laravel.
+Sistem Rental PlayStation modern.
+
+**Stack**
+
+Laravel • Bootstrap • MySQL
 
 </td>
 
@@ -392,7 +393,7 @@ Sistem Rental PlayStation berbasis Laravel.
 
 ## 🌐 Portfolio Website
 
-Website portfolio modern menggunakan Laravel & Tailwind CSS.
+Portfolio modern menggunakan Laravel & Tailwind CSS.
 
 </td>
 
@@ -400,7 +401,7 @@ Website portfolio modern menggunakan Laravel & Tailwind CSS.
 
 ## 📱 Flutter Apps
 
-Cross Platform Mobile Application menggunakan Flutter.
+Cross-platform mobile application menggunakan Flutter.
 
 </td>
 
@@ -410,9 +411,16 @@ Cross Platform Mobile Application menggunakan Flutter.
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Developer Philosophy
+<div align="center">
 
-```text
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:1E293B"/>
+
+</div>
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30"/> Developer Philosophy
+
+```
+
 while(alive){
 
     Learn();
@@ -424,11 +432,12 @@ while(alive){
     Repeat();
 
 }
+
 ```
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Developer Profile
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="30"/> Developer Profile
 
 ```yaml
 Name: Arman Wiranda
@@ -439,21 +448,26 @@ Company: FTwoDev
 
 Location: East Lombok, Indonesia
 
-Focus:
-  - Laravel
+Frontend:
   - Next.js
   - React.js
-  - Flutter
+  - JavaScript
+
+Backend:
+  - Laravel
   - Native PHP
 
-Interested:
-  - Machine Learning
-  - AI Chatbot
-  - Cyber Security
+Mobile:
+  - Flutter
+  - Apache Cordova
 
 Database:
   - MySQL
   - SQLite
+
+Styling:
+  - Tailwind CSS
+  - Bootstrap
 
 Tools:
   - Git
@@ -462,50 +476,210 @@ Tools:
   - XAMPP
   - Figma
   - Stitch AI
+
+Learning:
+  - Machine Learning
+  - AI Chatbot
+  - Cyber Security
 ```
-
----
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Randa23356">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-<a href="mailto:wrnda1823@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-00C7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-0F172A?style=for-the-badge"/>
-
-</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Code • Build • Learn • Repeat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:1E293B"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:00F5FF,30:0099FF,60:203A43,100:0F2027"/>
+</div>
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/> Connect With Me
+<div align="center">
+
+## Let's Build Something Amazing Together 🚀
+
+If you have an interesting project, startup idea, or collaboration opportunity,
+feel free to reach out.
+
+<br>
+
+<a href="mailto:wrnda1823@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Randa23356">
+
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30"/> Currently Working On
+
+<div align="center">
+
+| Project | Description | Status |
+|:---------|:------------|:------:|
+| 🛒 FTwo Mart | Marketplace Platform | 🚀 Active |
+| 🎮 iMon Rentals | Rental Management System | 🚀 Active |
+| 🌐 Portfolio Website | Personal Portfolio | 🔄 Improving |
+| 📱 Flutter Applications | Mobile Development | 🚀 Active |
+| 🤖 AI Chatbot | Machine Learning Research | 📖 Learning |
+
+</div>
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Tech Highlights
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,flutter,php,mysql,sqlite,git,vscode,tailwind,bootstrap,figma"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-Fullstack-black?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter"/>
+
+</div>
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> Developer Mindset
+
+```text
+Think First.
+
+Design Clean.
+
+Write Maintainable Code.
+
+Build Scalable Systems.
+
+Never Stop Learning.
+```
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FTwoDev
+
+<div align="center">
+
+## FTwoDev
+
+Building Software That Matters.
+
+</div>
+
+We believe technology should solve real-world problems.
+
+Our focus:
+
+- Modern Web Development
+- Mobile Applications
+- Business Information Systems
+- Custom Software
+- SaaS Development
+- REST API Integration
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> My Workflow
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+UI / UX Design
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Maintenance
+```
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Favorite Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,flutter,react,php,mysql"/>
+
+</div>
+
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/> Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Randa23356">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:wrnda1823@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lead_Developer-FTwoDev-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Developer-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Lover-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always_Learning-06B6D4?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F5FF,40:2563EB,100:0F172A&height=120&section=header&text=Code%20•%20Build%20•%20Innovate&fontColor=ffffff&fontSize=30"/>
+
+<br>
+
+*"Building technology is not just writing code, it's creating solutions that make people's lives easier."*
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:00F5FF,20:00BFFF,60:2563EB,100:0F172A"/>
 
 </div>
