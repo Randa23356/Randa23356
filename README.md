@@ -700,17 +700,28 @@ feel free to reach out.
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30"/> Currently Working On
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30"/> Current Development Roadmap
+
+```text
+🛒 FTWO Mart
+████████████████████░ 95%
+
+💻 AlphaTech
+███████████████████░░ 90%
+
+📱 DailyFlow
+██████████████░░░░░░░ 70%
+
+📚 Konsepsi Media Press
+█████████████████████ 100%
+
+🎓 Al Azhar LMS
+█████████████████████ 100%
+```
 
 <div align="center">
 
-| Project | Description | Status |
-|:---------|:------------|:------:|
-| 🛒 FTwo Mart | Marketplace Platform | 🚀 Active |
-| 🎮 iMon Rentals | Rental Management System | 🚀 Active |
-| 🌐 Portfolio Website | Personal Portfolio | 🔄 Improving |
-| 📱 Flutter Applications | Mobile Development | 🚀 Active |
-| 🤖 AI Chatbot | Machine Learning Research | 📖 Learning |
+**Always improving, optimizing, and building better software. 🚀**
 
 </div>
 
