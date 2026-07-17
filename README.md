@@ -206,31 +206,34 @@ Currently exploring:
 
 ---
 
-## Development Fields
+<div align="center">
+
+# ⚡ Development Fields
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center" width="250">
 
-### <img src="https://skillicons.dev/icons?i=laravel" width="22"> Web Development
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,php" />
 
-- Laravel
-- Next.js
-- React.js
-- Native PHP
-- REST API
+### Web Development
+
+Modern Web Applications  
+REST API Development  
+Responsive UI
 
 </td>
 
-<td width="50%">
+<td align="center" width="250">
 
-### <img src="https://skillicons.dev/icons?i=flutter" width="22"> Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter" />
 
-- Flutter
-- Apache Cordova
-- Cross Platform Apps
-- Responsive UI
+### Mobile Development
+
+Flutter  
+Apache Cordova  
+Cross Platform Apps
 
 </td>
 
@@ -238,31 +241,34 @@ Currently exploring:
 
 <tr>
 
-<td>
+<td align="center" width="250">
 
-### <img src="https://skillicons.dev/icons?i=tensorflow" width="22"> Artificial Intelligence
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-- Machine Learning
-- AI Chatbot
-- Automation
-- Prompt Engineering
+### Artificial Intelligence
+
+Machine Learning  
+AI Chatbot  
+Automation
 
 </td>
 
-<td>
+<td align="center" width="250">
 
-### <img src="https://skillicons.dev/icons?i=linux" width="22"> Cyber Security
+<img src="https://skillicons.dev/icons?i=linux" />
 
-- Web Security
-- OWASP
-- Security Best Practices
-- Linux
+### Cyber Security
+
+Web Security  
+OWASP  
+Security Best Practices
 
 </td>
 
 </tr>
-
 </table>
+
+</div>
 ---
 
 <div align="center">
