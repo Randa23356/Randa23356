@@ -568,7 +568,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 </p>
 
 <p align="center">
-  <img src="tahfizapp1.png" width="80%"/>
+  <img src="tahfizapp.png" width="50%"/>
 </p>
 
 ### ✨ Features
