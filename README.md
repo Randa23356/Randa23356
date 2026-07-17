@@ -269,7 +269,6 @@ Security Best Practices
 </table>
 
 </div>
----
 
 <div align="center">
 
