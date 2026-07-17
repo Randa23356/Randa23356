@@ -349,7 +349,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30"/> Featured Projects
+# <img src="https://www.svgrepo.com/show/532205/rocket-launch.svg" width="28"> Featured Projects
 
 <div align="center">
 
