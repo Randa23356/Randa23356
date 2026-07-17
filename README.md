@@ -208,72 +208,65 @@ Currently exploring:
 
 <div align="center">
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"/> Development Fields
+# Development Fields
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65">
 
-### Web Development
+<h3>Web Development</h3>
 
-<sub>
-
-Laravel • Next.js  
-React.js • Native PHP  
-REST API Development
-
-</sub>
+<p align="center">
+Laravel<br>
+Next.js<br>
+React.js<br>
+Native PHP
+</p>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65">
 
-### Mobile Development
+<h3>Mobile Development</h3>
 
-<sub>
-
-Flutter  
-Apache Cordova  
+<p align="center">
+Flutter<br>
+Apache Cordova<br>
 Cross Platform Apps
-
-</sub>
+</p>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65">
 
-### Artificial Intelligence
+<h3>Artificial Intelligence</h3>
 
-<sub>
-
-Machine Learning  
-AI Chatbot  
+<p align="center">
+Machine Learning<br>
+AI Chatbot<br>
 Automation
-
-</sub>
+</p>
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
 
-### Cyber Security
+<h3>Cyber Security</h3>
 
-<sub>
-
-OWASP Basics  
-Web Security  
+<p align="center">
+OWASP Basics<br>
+Web Security<br>
 Best Practices
-
-</sub>
+</p>
 
 </td>
 
@@ -281,7 +274,6 @@ Best Practices
 </table>
 
 </div>
-
 
 <div align="center">
 
