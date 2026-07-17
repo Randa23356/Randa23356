@@ -82,7 +82,7 @@ export default new Developer();
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=randa23356&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@ export default new Developer();
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Randa23356&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -102,7 +102,7 @@ export default new Developer();
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Randa23356&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -114,7 +114,7 @@ export default new Developer();
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -135,15 +135,15 @@ export default new Developer();
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Randa23356">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/Randa23356">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:you@email.com">
+<a href="wrnda1823@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -153,7 +153,7 @@ export default new Developer();
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=blue"/>
 
 </p>
 
