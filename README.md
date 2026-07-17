@@ -404,7 +404,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,js"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,js,api"/>
 
 </td>
 
@@ -531,7 +531,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,mysql,tailwind"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,tailwind,js"/>
 
 </td>
 
@@ -584,7 +584,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js,flutter"/>
 
 </td>
 
