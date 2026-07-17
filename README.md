@@ -347,33 +347,103 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Featured Projects
+---
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> Featured Projects
+
+<div align="center">
+
+> Some of the projects I've built as a Full Stack Developer.
+
+</div>
+
+<br>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛒 FTwo Mart
+<h2 align="center">🛒 FTWO Mart</h2>
 
-Marketplace berbasis Laravel dengan sistem pembayaran online.
+<p align="center">
 
-**Stack**
+<b>Modern Multi-Product E-Commerce Platform</b>
 
-Laravel • MySQL • Midtrans
+</p>
+
+<p align="center">
+
+<a href="https://mart.ftwodev.id">
+
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0891B2?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/Randa23356/ftwo-mart">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+<img src="https://placehold.co/900x520/0f172a/ffffff?text=FTWO+Mart+Preview"/>
+
+### ✨ Features
+
+- Multi-product marketplace
+- Midtrans Payment Gateway
+- QRIS & E-Wallet
+- Real-time Order Tracking
+- Dashboard Analytics
+- Dynamic CMS
+- PDF Invoice
+- Multi Role Authentication
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,js"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🎮 iMon Rentals
+<h2 align="center">📱 DailyFlow</h2>
 
-Sistem Rental PlayStation modern.
+<p align="center">
 
-**Stack**
+<b>Offline First Productivity App</b>
 
-Laravel • Bootstrap • MySQL
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Randa23356/DailyFlow">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+<img src="https://placehold.co/900x520/111827/ffffff?text=DailyFlow+Preview"/>
+
+### ✨ Features
+
+- Todo Manager
+- Habit Tracker
+- Smart Reminder
+- Offline First
+- Material 3
+- Dark Mode
+- Riverpod
+- Clean Architecture
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
 
 </td>
 
@@ -381,25 +451,146 @@ Laravel • Bootstrap • MySQL
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-## 🌐 Portfolio Website
+<h2 align="center">💻 AlphaTech</h2>
 
-Portfolio modern menggunakan Laravel & Tailwind CSS.
+<p align="center">
+
+<b>Modern Informatics Collaboration Platform</b>
+
+</p>
+
+<p align="center">
+
+<a href="https://alpha-tech.ftwodev.id">
+
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0891B2?style=for-the-badge"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+<img src="https://placehold.co/900x520/1e293b/ffffff?text=AlphaTech+Preview"/>
+
+### ✨ Features
+
+- Google OAuth
+- Dynamic CMS
+- Documentation Platform
+- Gallery
+- FCM Notification
+- Responsive UI
+- Admin Dashboard
+- Announcement System
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=php,mysql,tailwind,js"/>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-## 📱 Flutter Apps
+<h2 align="center">📚 Konsepsi Media Press</h2>
 
-Cross-platform mobile application menggunakan Flutter.
+<p align="center">
+
+<b>Professional Publishing Platform</b>
+
+</p>
+
+<p align="center">
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+<img src="https://placehold.co/900x520/1f2937/ffffff?text=Konsepsi+Preview"/>
+
+### ✨ Features
+
+- Book Catalog
+- Publishing Order
+- Dynamic CMS
+- Admin Dashboard
+- Contact System
+- Responsive Layout
+- Search Book
+- Slider Management
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=php,mysql,tailwind"/>
 
 </td>
 
 </tr>
 
 </table>
+
+<br>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="70%" valign="top">
+
+<h2 align="center">🎓 Al Azhar Learning Management System</h2>
+
+<p align="center">
+
+<b>Learning Management System for Schools</b>
+
+</p>
+
+<p align="center">
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+<img src="https://placehold.co/1200x500/111827/ffffff?text=Al+Azhar+LMS"/>
+
+### ✨ Features
+
+- Multi Role Authentication
+- Learning Materials
+- Assignment & Quiz
+- Student Dashboard
+- Teacher Dashboard
+- Operator Dashboard
+- Admin Dashboard
+- Statistics & Reports
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=php,mysql,tailwind,js"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
