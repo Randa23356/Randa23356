@@ -584,7 +584,7 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 ### ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,mysql,tailwind,js"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js"/>
 
 </td>
 
