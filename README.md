@@ -420,6 +420,12 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 
 <p align="center">
 
+<a href="https://randa23356.github.io/dailyflow">
+
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0891B2?style=for-the-badge"/>
+
+</a>
+
 <a href="https://github.com/Randa23356/DailyFlow">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -507,6 +513,12 @@ Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UM
 </p>
 
 <p align="center">
+
+<a href="https://konsepsimediapress.org">
+
+<img src="https://img.shields.io/badge/🌐_Live_Demo-0891B2?style=for-the-badge"/>
+
+</a>
 
 <a href="#">
 
