@@ -215,14 +215,6 @@ I enjoy creating clean architectures, modern UI, maintainable backend systems, a
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:06B6D4,100:1E293B"/>
-
-</div>
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Development Fields
-
-<div align="center">
-
 <table>
 
 <tr>
