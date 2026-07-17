@@ -206,74 +206,63 @@ Currently exploring:
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"> Development Fields
+## Development Fields
 
 <table>
+<tr>
+
+<td width="50%">
+
+### <img src="https://skillicons.dev/icons?i=laravel" width="22"> Web Development
+
+- Laravel
+- Next.js
+- React.js
+- Native PHP
+- REST API
+
+</td>
+
+<td width="50%">
+
+### <img src="https://skillicons.dev/icons?i=flutter" width="22"> Mobile Development
+
+- Flutter
+- Apache Cordova
+- Cross Platform Apps
+- Responsive UI
+
+</td>
+
+</tr>
 
 <tr>
 
-<td align="center">
+<td>
 
-🌐
+### <img src="https://skillicons.dev/icons?i=tensorflow" width="22"> Artificial Intelligence
 
-### Web Development
-
-Laravel
-
-Next.js
-
-React.js
-
-Native PHP
+- Machine Learning
+- AI Chatbot
+- Automation
+- Prompt Engineering
 
 </td>
 
-<td align="center">
+<td>
 
-📱
+### <img src="https://skillicons.dev/icons?i=linux" width="22"> Cyber Security
 
-### Mobile Apps
-
-Flutter
-
-Apache Cordova
-
-Cross Platform
-
-</td>
-
-<td align="center">
-
-🤖
-
-### AI
-
-Machine Learning
-
-Chatbot
-
-Automation
-
-</td>
-
-<td align="center">
-
-🔐
-
-### Security
-
-Cyber Security
-
-Web Security
-
-Best Practices
+- Web Security
+- OWASP
+- Security Best Practices
+- Linux
 
 </td>
 
 </tr>
 
 </table>
-
 ---
 
 <div align="center">
