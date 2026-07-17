@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,40:0099FF,100:0F2027&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Web+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+Digital+Solutions+Everyday+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋;I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Developer;Laravel+•+Next.js+•+Flutter;Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀"/>
 
 <img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=00c7ff"/>
 
@@ -10,12 +10,10 @@
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
 ```javascript
 const arman = {
-
-    name: "Arman Wiranda",
 
     role: "Lead Developer",
 
@@ -25,23 +23,55 @@ const arman = {
 
     title: "Full Stack Developer",
 
-    specialties: [
-        "Web Development",
-        "Mobile Development",
-        "REST API",
-        "UI Development"
+    website: "https://ftwodev.id",
+
+    frontend: [
+        "Next.js",
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
     ],
 
-    currentlyLearning: [
+    styling: [
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Laravel",
+        "Native PHP"
+    ],
+
+    mobile: [
+        "Flutter",
+        "Apache Cordova"
+    ],
+
+    database: [
+        "MySQL",
+        "SQLite"
+    ],
+
+    tools: [
+        "Git",
+        "VS Code",
+        "Laragon",
+        "XAMPP",
+        "Figma",
+        "Stitch AI"
+    ],
+
+    learning: [
         "Machine Learning",
-        "Chatbot",
-        "Cloud Computing"
+        "AI Chatbot",
+        "Cyber Security"
     ],
 
-    interests: [
-        "Cyber Security",
-        "Artificial Intelligence",
-        "Open Source"
+    languages: [
+        "JavaScript",
+        "PHP",
+        "Python (Basic)"
     ]
 
 }
@@ -49,108 +79,67 @@ const arman = {
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
-## 🌐 Frontend
+### 🌐 Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css&perline=5"/>
 
 </p>
 
-**Framework & Styling**
+### 🎨 Styling
 
-- Tailwind CSS
-- Bootstrap
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap"/>
 
-## ⚙️ Backend
+</p>
 
-<p>
+### ⚙️ Backend
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,php"/>
 
 </p>
 
-- Laravel
-- Native PHP
-- REST API Development
+### 📱 Mobile
 
----
-
-## 📱 Mobile
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter"/>
 
 </p>
 
-- Flutter
-- Apache Cordova
+**Apache Cordova**
 
----
+### 🗄 Database
 
-## 🗄 Database
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 </p>
 
-- MySQL
-- SQLite
+### 🛠 Tools
 
----
-
-## 🛠 Tools
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,python"/>
 
 </p>
 
-Also familiar with:
+---
 
-- Laragon
-- XAMPP
-- Stitch AI
+# 🏢 About FTwoDev
+
+> 🚀 **FTwoDev** is a software development startup focused on building modern web applications, mobile applications, business systems, and custom digital solutions.
 
 ---
 
-# 💡 Knowledge
-
-- Full Stack Web Development
-- Mobile App Development
-- REST API Development
-- Cyber Security Fundamentals
-- Machine Learning Fundamentals
-- Chatbot Development
-- UI/UX Design
-
----
-
-# 📊 GitHub Stats
-
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Randa23356&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randa23356&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/> </div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Randa23356&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -170,15 +159,25 @@ Also familiar with:
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Projects
 
-🌟 Building scalable web applications with Laravel & Next.js
+| Project | Description |
+|---------|-------------|
+| 🛒 FTwo Mart | E-Commerce Platform built with Laravel |
+| 🎮 iMon Rentals | PlayStation Rental Management System |
+| 🌐 Portfolio | Personal Portfolio Website |
+| 📱 Flutter Apps | Cross Platform Mobile Applications |
 
-📱 Cross-platform mobile apps using Flutter
+---
 
-🤖 Exploring Machine Learning & AI Chatbot
+# 🎯 Current Focus
 
-🔐 Improving Cyber Security knowledge
+- 🚀 Building scalable Laravel applications
+- ⚛️ Next.js & React.js Development
+- 📱 Flutter Mobile Apps
+- 🤖 AI Chatbot
+- 🧠 Machine Learning
+- 🔐 Cyber Security
 
 ---
 
@@ -200,7 +199,7 @@ Also familiar with:
 
 <div align="center">
 
-### ⭐ *"Code. Build. Learn. Repeat."*
+### ⭐ "Code. Build. Learn. Repeat."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,100:00F5FF"/>
 
