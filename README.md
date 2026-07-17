@@ -1,76 +1,144 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,30:203a43,60:2c5364,100:00F5FF&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Laravel%20•%20Cyber%20Security&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,40:0099FF,100:0F2027&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+There+%F0%9F%91%8B;I'm+Arman+Wiranda;Full+Stack+Developer;Laravel+%7C+Flutter+%7C+React;Cyber+Security+Enthusiast;Always+Building+Something+Awesome+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Web+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+Digital+Solutions+Everyday+%F0%9F%9A%80"/>
+
+<img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=00c7ff"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```javascript
-class Developer {
+const arman = {
 
-    constructor(){
+    name: "Arman Wiranda",
 
-        this.name = "Arman Wiranda";
+    role: "Lead Developer",
 
-        this.location = "Indonesia";
+    company: "FTwoDev",
 
-        this.role = "Full Stack Developer";
+    location: "East Lombok, Indonesia 🇮🇩",
 
-        this.backend = [
-            "Laravel",
-            "PHP",
-            "Node.js"
-        ];
+    title: "Full Stack Developer",
 
-        this.frontend = [
-            "React",
-            "Next.js",
-            "Tailwind"
-        ];
+    specialties: [
+        "Web Development",
+        "Mobile Development",
+        "REST API",
+        "UI Development"
+    ],
 
-        this.mobile = [
-            "Flutter"
-        ];
+    currentlyLearning: [
+        "Machine Learning",
+        "Chatbot",
+        "Cloud Computing"
+    ],
 
-        this.database = [
-            "MySQL",
-            "PostgreSQL"
-        ];
-
-        this.learning = [
-            "Cyber Security",
-            "Machine Learning",
-            "Cloud"
-        ];
-    }
+    interests: [
+        "Cyber Security",
+        "Artificial Intelligence",
+        "Open Source"
+    ]
 
 }
-
-export default new Developer();
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+## 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,flutter,tailwind,nodejs,python,mysql,postgres,git,docker,linux,vscode,figma&perline=8"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css"/>
 
 </p>
 
+**Framework & Styling**
+
+- Tailwind CSS
+- Bootstrap
+
 ---
 
-# 📊 GitHub Dashboard
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,php"/>
+
+</p>
+
+- Laravel
+- Native PHP
+- REST API Development
+
+---
+
+## 📱 Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+</p>
+
+- Flutter
+- Apache Cordova
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+- MySQL
+- SQLite
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,python"/>
+
+</p>
+
+Also familiar with:
+
+- Laragon
+- XAMPP
+- Stitch AI
+
+---
+
+# 💡 Knowledge
+
+- Full Stack Web Development
+- Mobile App Development
+- REST API Development
+- Cyber Security Fundamentals
+- Machine Learning Fundamentals
+- Chatbot Development
+- UI/UX Design
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Randa23356&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Randa23356&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randa23356&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -78,11 +146,11 @@ export default new Developer();
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=randa23356&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Randa23356&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,19 +166,7 @@ export default new Developer();
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Randa23356&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
-
-> Aktifkan GitHub Action di bawah terlebih dahulu.
 
 <p align="center">
 
@@ -120,18 +176,19 @@ export default new Developer();
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Focus
 
-| Project | Description |
-|---------|-------------|
-| 🛒 FTwo Mart | Marketplace Laravel |
-| 🎮 iMon Rentals | Rental Management System |
-| 📱 Flutter Apps | Cross Platform Apps |
-| 🌐 Portfolio | Personal Website |
+🌟 Building scalable web applications with Laravel & Next.js
+
+📱 Cross-platform mobile apps using Flutter
+
+🤖 Exploring Machine Learning & AI Chatbot
+
+🔐 Improving Cyber Security knowledge
 
 ---
 
-# 🌎 Connect
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -139,11 +196,7 @@ export default new Developer();
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/Randa23356">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="wrnda1823@gmail.com">
+<a href="mailto:wrnda1823@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -151,10 +204,10 @@ export default new Developer();
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Randa23356&style=for-the-badge&color=blue"/>
+### ⭐ *"Code. Build. Learn. Repeat."*
 
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,100:00F5FF"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00F5FF,100:0f2027"/>
+</div>
