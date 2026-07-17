@@ -2,7 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,20:00BFFF,40:1E90FF,60:203A43,100:0F2027&text=ARMAN%20WIRANDA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Lead+Developer+@+FTwoDev;Full+Stack+Developer;Laravel+•+Next.js+•+Flutter;Building+Modern+Digital+Solutions;Always+Learning+Something+New"/>
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;Lead+Developer+%40+FTwoDev;Full+Stack+Developer+from+Indonesia;Laravel+%7C+React.js+%7C+Next.js;Flutter+%7C+Native+PHP;Cyber+Security+%7C+Machine+Learning;Always+Building+Something+Awesome" alt="Typing SVG" />
+</a>
+</p>
 
 <br>
 
