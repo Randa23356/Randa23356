@@ -114,7 +114,7 @@ Name        : Arman Wiranda
 
 Role        : Lead Developer
 
-Company     : FTwoDev
+Company     : FtwoDev
 
 Location    : East Lombok, Indonesia
 
