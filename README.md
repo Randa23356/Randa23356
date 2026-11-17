@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:4ADE80,20:22C55E,50:16A34A,80:14532D,100:052E16&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FTwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:4ADE80,20:22C55E,50:16A34A,80:14532D,100:052E16&text=ARMAN%20WIRANDA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Developer%20@%20FtwoDev%20•%20Full%20Stack%20Developer&descAlignY=57"/>
 
 <br>
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Arman+Wiranda;Lead+Developer+at+FTwoDev;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React.js;Flutter+Developer;Building+Modern+Digital+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Arman+Wiranda;Lead+Developer+at+FtwoDev;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React.js;Flutter+Developer;Building+Modern+Digital+Solutions"/>
 
 </a>
 
@@ -403,7 +403,7 @@ Learning secure development and web security fundamentals.
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FTwoDev
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FtwoDev
 
 <div align="center">
 
@@ -413,7 +413,7 @@ Learning secure development and web security fundamentals.
 
 </div>
 
-FTwoDev adalah startup software development yang saya pimpin sebagai **Lead Developer**.
+FtwoDev adalah startup software development yang saya pimpin sebagai **Lead Developer**.
 
 Kami berfokus pada pengembangan solusi digital modern untuk bisnis, instansi, UMKM, maupun personal.
 
@@ -723,7 +723,7 @@ Name: Arman Wiranda
 
 Role: Lead Developer
 
-Company: FTwoDev
+Company: FtwoDev
 
 Location: East Lombok, Indonesia
 
@@ -863,11 +863,11 @@ Never Stop Learning.
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FTwoDev
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30"/> FtwoDev
 
 <div align="center">
 
-## FTwoDev
+## FtwoDev
 
 Building Software That Matters.
 
@@ -946,7 +946,7 @@ Maintenance
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Lead_Developer-FTwoDev-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lead_Developer-FtwoDev-0EA5E9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Full_Stack_Developer-181717?style=for-the-badge"/>
 
