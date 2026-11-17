@@ -393,12 +393,18 @@ Learning secure development and web security fundamentals.
 
 ---
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> Contribution Snake
+
+<h1 align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  Contribution Snake
+</h1>
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Randa23356/Randa23356/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
