@@ -145,7 +145,7 @@ Mission     : Build digital products that solve
 
 I'm **Arman Wiranda**, a **Full Stack Developer** based in **East Lombok, Indonesia**.
 
-Currently serving as **Lead Developer at FTwoDev**, where I design and build scalable digital products ranging from company profiles, information systems, SaaS platforms, and mobile applications.
+Currently serving as **Lead Developer at FtwoDev**, where I design and build scalable digital products ranging from company profiles, information systems, SaaS platforms, and mobile applications.
 
 I enjoy creating clean architectures, modern UI, maintainable backend systems, and continuously exploring new technologies.
 
